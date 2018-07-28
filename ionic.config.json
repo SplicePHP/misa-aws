@@ -1,0 +1,8 @@
+{
+  "name": "misa-aws",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "fa0ee0e9"
+}
